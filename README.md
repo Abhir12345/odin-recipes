@@ -14,7 +14,7 @@ This project demonstrates basic HTML skills, including:
 - Linking between internal pages with anchor tags.
 - Organizing a small multi-page website.
 - Working with local files and version control using Git.
-- PS. Find the **[Link]**(https://github.com/Abhir12345/odin-recipes)
+- PS. Find the **[Link](https://github.com/Abhir12345/odin-recipes)**
 
 ---
 
