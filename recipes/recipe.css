@@ -1,0 +1,75 @@
+/* Reset spacing */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Georgia, serif;
+    background-color: #fdfcfb;
+    color: #333;
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+h1 {
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h3 {
+    margin-top: 30px;
+    font-size: 1.5em;
+    color: #4a4a4a;
+}
+
+figure {
+    text-align: center;
+    margin: 20px 0;
+}
+
+img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+}
+
+figcaption {
+    font-style: italic;
+    font-size: 0.9em;
+    margin-top: 8px;
+}
+
+p {
+    margin-bottom: 16px;
+}
+
+ul,
+ol {
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+ul li,
+ol li {
+    margin-bottom: 8px;
+}
+
+hr {
+    margin: 30px 0;
+}
+
+a {
+    color: #2563eb;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
