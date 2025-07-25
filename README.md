@@ -1,6 +1,6 @@
 # 🍴 Odin Recipes
 
-A simple HTML project showcasing some of my favorite vegetarian recipes.  
+A simple HTML, CSS project showcasing some of my favorite vegetarian recipes.  
 Built as part of The Odin Project's foundational curriculum.
 
 ---
@@ -9,7 +9,7 @@ Built as part of The Odin Project's foundational curriculum.
 
 This project demonstrates basic HTML skills, including:
 
-- Creating structured web pages using semantic HTML.
+- Creating structured web pages using semantic HTML and CSS.
 - Adding and formatting images.
 - Linking between internal pages with anchor tags.
 - Organizing a small multi-page website.
